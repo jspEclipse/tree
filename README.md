@@ -88,5 +88,3 @@ Pull requests are welcome to improve the components and add additional customiza
 ## License
 
 MIT
-
-Let me know if you would like any sections expanded or additional details covered!
